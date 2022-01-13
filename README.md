@@ -1,2 +1,3 @@
-# renda_interna_bruta
-Cálculo de renda interna bruta
+# Renda Interna Bruta
+
+Cálculo de renda interna bruta feito em R
